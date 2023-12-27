@@ -2,7 +2,6 @@
 
 [![Gem Version](https://badge.fury.io/rb/bundle_outdated_formatter.svg)](https://badge.fury.io/rb/bundle_outdated_formatter)
 [![Build Status](https://github.com/emsk/bundle_outdated_formatter/actions/workflows/build.yml/badge.svg)](https://github.com/emsk/bundle_outdated_formatter/actions/workflows/build.yml)
-[![Build status](https://ci.appveyor.com/api/projects/status/w2qfj0a4iicqhmhq?svg=true)](https://ci.appveyor.com/project/emsk/bundle-outdated-formatter)
 [![Codecov](https://codecov.io/gh/emsk/bundle_outdated_formatter/branch/main/graph/badge.svg)](https://codecov.io/gh/emsk/bundle_outdated_formatter)
 [![Code Climate](https://codeclimate.com/github/emsk/bundle_outdated_formatter/badges/gpa.svg)](https://codeclimate.com/github/emsk/bundle_outdated_formatter)
 [![Inline docs](http://inch-ci.org/github/emsk/bundle_outdated_formatter.svg?branch=main)](http://inch-ci.org/github/emsk/bundle_outdated_formatter)

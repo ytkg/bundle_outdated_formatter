@@ -3,14 +3,14 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'bundle_outdated_formatter/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'bundle_outdated_formatter'
+  spec.name          = 'bof'
   spec.version       = BundleOutdatedFormatter::VERSION
   spec.authors       = ['emsk']
   spec.email         = ['emsk1987@gmail.com']
 
   spec.summary       = 'Formatter for `bundle outdated`'
   spec.description   = 'BundleOutdatedFormatter is a command-line tool to format output of `bundle outdated`'
-  spec.homepage      = 'https://github.com/emsk/bundle_outdated_formatter'
+  spec.homepage      = 'https://github.com/ytkg/bundle_outdated_formatter'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|

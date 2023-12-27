@@ -14,7 +14,7 @@ BundleOutdatedFormatter is a command-line tool to format output of `bundle outda
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'bundle_outdated_formatter'
+gem 'bof'
 ```
 
 And then execute:
@@ -26,7 +26,7 @@ $ bundle
 Or install it yourself as:
 
 ```sh
-$ gem install bundle_outdated_formatter
+$ gem install bof
 ```
 
 ## Usage

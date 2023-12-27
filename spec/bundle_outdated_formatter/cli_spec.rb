@@ -1714,7 +1714,7 @@ Options:
   -s, [--style=STYLE]            # Terminal table style. (unicode, ascii)
                                  # Default: unicode
   -c, [--column=one two three]   # Output columns. (columns are sorted in specified order)
-                                 # Default: ["gem", "newest", "installed", "requested", "groups"]
+                                 # Default: "gem" "newest" "installed" "requested" "groups"
 
 Format output of `bundle outdated`
         EOS

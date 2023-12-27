@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.0 (2023-12-27)
+
+* Support table format stdin for Bundler 2.2 or higher ( https://github.com/ytkg/bundle_outdated_formatter/pull/6 )
+
 ## 0.7.0 (2020-06-29)
 
 ### Features

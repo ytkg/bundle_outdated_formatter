@@ -1,7 +1,7 @@
 # BundleOutdatedFormatter
 
 [![Gem Version](https://badge.fury.io/rb/bof.svg)](https://badge.fury.io/rb/bundle_outdated_formatter)
-[![Build Status](https://github.com/emsk/bundle_outdated_formatter/actions/workflows/build.yml/badge.svg)](https://github.com/emsk/bundle_outdated_formatter/actions/workflows/build.yml)
+[![Build Status](https://github.com/ytkg/bundle_outdated_formatter/actions/workflows/build.yml/badge.svg)](https://github.com/emsk/bundle_outdated_formatter/actions/workflows/build.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
 
 BundleOutdatedFormatter is a command-line tool to format output of `bundle outdated`.

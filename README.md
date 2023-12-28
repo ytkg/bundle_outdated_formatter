@@ -1,12 +1,12 @@
 # BundleOutdatedFormatter
 
-[![Gem Version](https://badge.fury.io/rb/bundle_outdated_formatter.svg)](https://badge.fury.io/rb/bundle_outdated_formatter)
+[![Gem Version](https://badge.fury.io/rb/bof.svg)](https://badge.fury.io/rb/bundle_outdated_formatter)
 [![Build Status](https://github.com/emsk/bundle_outdated_formatter/actions/workflows/build.yml/badge.svg)](https://github.com/emsk/bundle_outdated_formatter/actions/workflows/build.yml)
-[![Code Climate](https://codeclimate.com/github/emsk/bundle_outdated_formatter/badges/gpa.svg)](https://codeclimate.com/github/emsk/bundle_outdated_formatter)
-[![Inline docs](http://inch-ci.org/github/emsk/bundle_outdated_formatter.svg?branch=main)](http://inch-ci.org/github/emsk/bundle_outdated_formatter)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
 
 BundleOutdatedFormatter is a command-line tool to format output of `bundle outdated`.
+
+Forked from [emsk/bundle_outdated_formatter](https://github.com/emsk/bundle_outdated_formatter).
 
 ## Installation
 
@@ -256,7 +256,7 @@ Pretty output:
 
 ## Supported Ruby Versions
 
-Ruby 2.0.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 3.0
+Ruby 2.6, 2.7, 3.0, 3.1, 3.2, 3.3
 
 ## Contributing
 

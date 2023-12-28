@@ -26,11 +26,4 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'rexml', '~> 3.2'
   spec.add_runtime_dependency 'thor', '>= 1.3.0'
   spec.add_runtime_dependency 'tty-table', '~> 0.10'
-  spec.add_development_dependency 'bundler'
-  spec.add_development_dependency 'rake'
-  spec.add_development_dependency 'rspec'
-  if RUBY_PLATFORM !~ /mingw/
-    spec.add_development_dependency 'rubocop'
-    spec.add_development_dependency 'rubocop-rspec'
-  end
 end
